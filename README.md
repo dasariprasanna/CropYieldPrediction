@@ -1,6 +1,6 @@
 # CropYieldPrediction
 A Hybrid Approach For Crop Yield Prediction Using Gradient  Enhanced Multiple Linear Polynomial Model
-ABSTRACT
+# ABSTRACT
 Accurate crop yield prediction is essential for boosting agricultural productivity, ensuring
 food security, and allocating resources as effectively as feasible. Traditional yield prediction
 models sometimes fail to capture the complex, non-linear interactions among numerous
